@@ -1,0 +1,8 @@
+# SAC Messages Configuration
+# Made By Trixx1_
+
+prefix: "&8[&cSAC&8] &r"
+no-permission: "&cYou do not have permission to use this command!"
+reload: "&aPlugin successfully reloaded."
+alert: "&c%player% &7failed &f%check% &8(x%violations%) &7ping: &f%ping%ms"
+client-detection: "&7Player &f%player% &7is using &c%client%&7."

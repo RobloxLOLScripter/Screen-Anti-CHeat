@@ -1,0 +1,25 @@
+# SAC Checks Configuration
+# Made By Trixx1_
+
+combat:
+  killaura:
+    enabled: true
+    violation-threshold: 5
+    buffer-size: 10
+  aimassist:
+    enabled: true
+    violation-threshold: 8
+  autoclicker:
+    enabled: true
+    max-cps: 18
+
+movement:
+  speed:
+    enabled: true
+    violation-threshold: 5
+  fly:
+    enabled: true
+    violation-threshold: 3
+  nofall:
+    enabled: true
+    violation-threshold: 2

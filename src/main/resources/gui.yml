@@ -1,0 +1,10 @@
+# SAC GUI Configuration
+# Made By Trixx1_
+
+gui:
+  main:
+    title: "&8Screen Anti-Cheat"
+    size: 54
+  profile:
+    title: "&8Player Profile: %player%"
+    size: 27

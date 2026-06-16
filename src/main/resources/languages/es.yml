@@ -1,0 +1,4 @@
+prefix: "&8[&cSAC&8] &r"
+no-permission: "&c¡No tienes permiso!"
+reload: "&aPlugin recargado."
+alert: "&c%player% &7falló &f%check% &8(x%violations%)"

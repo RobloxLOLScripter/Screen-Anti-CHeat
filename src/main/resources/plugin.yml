@@ -1,0 +1,15 @@
+name: ScreenAntiCheat
+version: '1.0.0'
+main: me.trixx1.sac.SACPlugin
+api-version: '1.21' # Paper 26.1.2 likely corresponds to 1.21.x or later.
+authors: [Trixx1_]
+description: A premium Anti-Cheat plugin.
+website: https://github.com/Trixx1_/ScreenAntiCheat
+commands:
+  sac:
+    description: Main command for ScreenAntiCheat
+    aliases: [screenanticheat]
+permissions:
+  sac.admin:
+    description: Allows use of all SAC commands
+    default: op

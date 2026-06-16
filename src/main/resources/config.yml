@@ -1,0 +1,23 @@
+# Screen Anti-Cheat (SAC) Configuration
+# Made By Trixx1_
+
+language: "en"
+check-interval: 1
+async-processing: true
+
+database:
+  type: "sqlite" # sqlite, mysql, mariadb
+  host: "localhost"
+  port: 3306
+  database: "sac"
+  username: "root"
+  password: ""
+
+discord:
+  enabled: false
+  webhook-url: ""
+  username: "SAC Alerts"
+  avatar-url: ""
+
+metrics: true
+debug: false

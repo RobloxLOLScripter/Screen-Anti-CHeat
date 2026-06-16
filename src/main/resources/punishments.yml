@@ -1,0 +1,16 @@
+# SAC Punishments Configuration
+# Made By Trixx1_
+
+punishments:
+  kick:
+    enabled: true
+    commands:
+      - "kick %player% &c[SAC] &7Detection: &f%check%"
+  ban:
+    enabled: true
+    commands:
+      - "ban %player% &c[SAC] &7Unfair Advantage &8(%check%)"
+
+violation-actions:
+  5: "kick"
+  15: "ban"

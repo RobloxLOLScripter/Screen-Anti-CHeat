@@ -1,0 +1,4 @@
+prefix: "&8[&cSAC&8] &r"
+no-permission: "&cУ вас нет прав!"
+reload: "&aПлагин перезагружен."
+alert: "&c%player% &7не прошел &f%check% &8(x%violations%)"

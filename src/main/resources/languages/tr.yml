@@ -1,0 +1,4 @@
+prefix: "&8[&cSAC&8] &r"
+no-permission: "&cYetkiniz yok!"
+reload: "&aEklenti yeniden yüklendi."
+alert: "&c%player% &f%check% &7kontrolünden kaldı &8(x%violations%)"
